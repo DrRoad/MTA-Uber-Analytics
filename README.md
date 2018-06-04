@@ -1,3 +1,9 @@
+# Ride or Drive
+## A Columbia QMSS project
+### Team Members: Mikael Brunila, Jon Campbell, Maliha Tariq, Nathan Taylor
+
+The Shiny app produced through this project can be found [here](https://thisisnotaprogrammer.shinyapps.io/shiny_app/).
+
 Considering the importance of transportation in a metropolitan area as big as New York City, our team was interested in analyzing any trends, patterns and insights in transit choices. More specifically, we were interested in examining the factors that people consider when selecting a mode of transportation.
 
 According to the MTA, annual subway ridership spiked at 1.7 billion riders in 2015. This is the highest number of riders since 1948. With 5.7 million riders per weekday, the MTA carries the greatest number of commuters compared to any other transit system in the Western Hemisphere.
